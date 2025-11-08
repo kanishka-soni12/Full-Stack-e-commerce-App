@@ -18,29 +18,7 @@ Features
 
 Folder Structure
 
-vibe-ecom-assignment/
-├── backend/
-│   ├── models/
-│   │   └── Product.js
-│   ├── routes/
-│   │   ├── productRoutes.js
-│   │   └── cartRoutes.js
-│   ├── seed.js
-│   ├── server.js
-│   ├── .env
-│   └── package.json
-└── frontend/
-    ├── src/
-    │   ├── components/
-    │   │   ├── ProductGrid.js
-    │   │   ├── CartView.js
-    │   │   ├── Checkout.js
-    │   │   └── ReceiptModal.js
-    │   ├── App.js
-    │   ├── api.js
-    │   └── index.js
-    ├── .env
-    └── package.json
+<img width="213" height="473" alt="image" src="https://github.com/user-attachments/assets/76431f1d-9b50-41df-b8ab-848e81c67855" />
 
 Backend Setup
 
